@@ -4,6 +4,6 @@ Depression is a severe illness which can lead to suicide. More than 264 million 
 
 The data sets provide the motor activity of 23 patients with depression and 32 controls (healthy). The severity of the depression is assessed by experts using the Montgomery-Asberg Depression Rating Scale (MADRS). MADRS levels range from 0 to 60. Values above 30 represent a severe depression, values below 10 indicate a healthy state.
 
-### Data : https://www.kaggle.com/arashnic/the-depression-dataset
+#### Data : https://www.kaggle.com/arashnic/the-depression-dataset
 
 ![](image/depression.png)
